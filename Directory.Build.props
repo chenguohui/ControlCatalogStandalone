@@ -3,6 +3,7 @@
     <Nullable>enable</Nullable>
     <AvaloniaVersion>11.0.999-cibuild0040511-beta</AvaloniaVersion>
     <RestoreSources>
+      https://nuget.loongnix.cn/v3/index.json;
       https://api.nuget.org/v3/index.json;
       https://nuget-feed-nightly.avaloniaui.net/v3/index.json;
     </RestoreSources>
